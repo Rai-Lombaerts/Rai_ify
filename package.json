@@ -1,0 +1,21 @@
+{
+  "name": "rai_ify",
+  "version": "1.0.0",
+  "description": "- I should make an interactive UI like the spotify app where I can search songs/artists/public_playlists/albums, CREATE a new playlist, DELETE a playlist, ADD songs to my playlist, REMOVE a song in my playlist, ADD albums to playlists.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rai-Lombaerts/Rai_ify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rai-Lombaerts/Rai_ify/issues"
+  },
+  "homepage": "https://github.com/Rai-Lombaerts/Rai_ify#readme"
+}
