@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Rai-Lombaerts/Rai_ify/issues"
   },
-  "homepage": "https://github.com/Rai-Lombaerts/Rai_ify#readme"
+  "homepage": "https://github.com/Rai-Lombaerts/Rai_ify#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
 }
