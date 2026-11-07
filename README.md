@@ -7,7 +7,7 @@
 Ticket Task Skills
 
 - 001 Create repository Git, GitHub //OK!
-- 002 Set up Node project Node, NPM
+- 002 Set up Node project Node, NPM //OK!
 - 003 Configure TypeScript TypeScript
 - 004 Create Song class OOP
 - 005 Connect SQLite Database, Knex
